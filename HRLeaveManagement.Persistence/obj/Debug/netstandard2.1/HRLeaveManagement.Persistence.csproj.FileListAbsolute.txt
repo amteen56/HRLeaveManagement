@@ -1,0 +1,10 @@
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\bin\Debug\netstandard2.1\HRLeaveManagement.Persistence.deps.json
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\bin\Debug\netstandard2.1\HRLeaveManagement.Persistence.dll
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\bin\Debug\netstandard2.1\HRLeaveManagement.Persistence.pdb
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\obj\Debug\netstandard2.1\HRLeaveManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\obj\Debug\netstandard2.1\HRLeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\obj\Debug\netstandard2.1\HRLeaveManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\obj\Debug\netstandard2.1\HRLeaveManagement.Persistence.AssemblyInfo.cs
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\obj\Debug\netstandard2.1\HRLeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\obj\Debug\netstandard2.1\HRLeaveManagement.Persistence.dll
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Persistence\obj\Debug\netstandard2.1\HRLeaveManagement.Persistence.pdb

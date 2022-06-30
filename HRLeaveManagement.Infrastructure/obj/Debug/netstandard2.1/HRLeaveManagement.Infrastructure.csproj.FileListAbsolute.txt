@@ -1,0 +1,15 @@
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.deps.json
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.dll
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.pdb
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.dll
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.pdb
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HRLeaveManagement.Application.dll
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HRLeaveManagement.Domain.dll
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HRLeaveManagement.Application.pdb
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\netstandard2.1\HRLeaveManagement.Domain.pdb
+C:\Users\abdul.mateen\Documents\MyDATA\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\netstandard2.1\HRLeaveManagement.Infrastructure.csproj.CopyComplete
