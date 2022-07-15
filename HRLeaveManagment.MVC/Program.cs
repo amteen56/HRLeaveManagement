@@ -1,9 +1,11 @@
 using HRLeaveManagement.MVC.Services;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddHttpClient<IClient, Client>(c1 => c1.BaseAddress = new Uri("https://localhost:44346"));
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
